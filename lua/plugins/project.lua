@@ -14,6 +14,8 @@ return {
   opts = {
     -- Project directories
     projects = {
+      "~/Workplace/go/src/*",
+      "~/Workplace/go/src/cephalon/*",
     },
     -- Load the most recent session on startup if not in the project directory
     last_session_on_startup = false,
